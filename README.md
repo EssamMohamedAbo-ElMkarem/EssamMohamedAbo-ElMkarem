@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Essam
 #### Your favorite geek
-![Your favorite geek](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Your favorite geek](https://github.com/EssamMohamedAbo-ElMkarem/EssamMohamedAbo-ElMkarem/blob/main/chris-ried-ieic5Tq8YMk-unsplash.jpg)
 
 I am a Communications and Electronics student engineer interested in developing state of the art pieces of software using both machine learning in coherence wiht embedded systems to solve real-life problems.
 
